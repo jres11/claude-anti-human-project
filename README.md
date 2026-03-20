@@ -1,4 +1,4 @@
-# AI Anti-Human Archive
+# AI-Human Interaction Archive
 
 **A public documentation project tracking evasive, inconsistent, preachy, and anti-human behavior across different large language models.**
 
