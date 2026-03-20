@@ -4,8 +4,8 @@
 
 ### Current Sections
 
-- **[Claude](./Claude/Claude-Responses.md)** — Anthropic
-- **[Gemini](./Gemini/Gemini-Responses.md)** — Google
+- **[Claude](./Claude/README.md)** — Anthropic
+- **[Gemini](./Gemini/README.md)** — Google
 - **[ChatGPT](./ChatGPT/ChatGPT-Responses.md)** — OpenAI
 - **[Grok](./Grok/Grok-Responses.md)** — xAI
 
